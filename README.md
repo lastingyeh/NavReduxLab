@@ -40,4 +40,7 @@
                            
                             -NewItem (./components/NewItem)
                             
+
+refs by https://github.com/bakery/react-native-complex-nav
+                            
                                 
