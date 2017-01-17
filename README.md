@@ -40,6 +40,14 @@
                            
                             -NewItem (./components/NewItem)
                             
+## Android Demo
+
+![alt tag](https://github.com/lastingyeh/NavReduxLab/blob/master/android.gif)
+
+## iOS Demo
+
+![alt tag](https://github.com/lastingyeh/NavReduxLab/blob/master/ios.gif)
+
 
 refs by https://github.com/bakery/react-native-complex-nav
                             
